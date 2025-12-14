@@ -1,4 +1,4 @@
-- # Hi 👋, I'm nimabahrami
+- # Hi 👋, I'm Nima
 
 ### A passionate Python developer
 
