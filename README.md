@@ -6,7 +6,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me: email-> n.bahraami@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
